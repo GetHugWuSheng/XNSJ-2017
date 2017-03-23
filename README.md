@@ -14,7 +14,7 @@
 	<tr><td>7. 王龙  </td><td>PE文件分析</td><td>761604382@qq.com</td><td></td></tr>
 	<tr><td>8. 杜星运</td><td>基于JSP的动态网站开发-在线图书商城</td><td>1354388565@qq.com</td><td></td></tr>
 	<tr><td>9. 李祯  </td><td>基于WebGL的地形渲染</td><td>@qq.com</td><td></td></tr>
-	<tr><td>10.候治国</td><td>基于C++内核的跨平台编译框架</td><td>978948447@qq.com</td><td></td></tr>
+	<tr><td>10.候治国</td><td>基于C++内核的跨平台编译框架</td><td>978948447@qq.com</td><td>https://github.com/hzgloveyd/hhk</td></tr>
 	<tr><td>11.黄鸿昌</td><td>校园交易平台(iOS App)</td><td>625845705@qq.com</td><td></td></tr>
 	<tr><td>12.孙海弦</td><td>提高农业本体可用性的方法研究</td><td>1806352026@qq.com</td><td></td></tr>
 	<tr><td>13.杜威  </td><td>西南大学校园网络建设</td><td>1278703103@qq.com</td><td></td></tr>
