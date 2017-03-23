@@ -11,7 +11,7 @@
 	<tr><td>4. 杨金鑫</td><td>WIFI安全接入</td><td>1165602687@qq.com</td><td></td></tr>
 	<tr><td>5. 臧鹏  </td><td>基于WebGL在线三维游戏开发</td><td>284470416@qq.com</td><td></td></tr>
 	<tr><td>6. 涂鑫  </td><td>校园网络建设规划与设计</td><td>974038517@qq.com</td><td></td></tr>
-	<tr><td>7. 王龙  </td><td></td><td>761604382@qq.com</td><td></td></tr>
+	<tr><td>7. 王龙  </td><td>PE文件分析</td><td>761604382@qq.com</td><td></td></tr>
 	<tr><td>8. 杜星运</td><td>基于JSP的动态网站开发-在线图书商城</td><td>1354388565@qq.com</td><td></td></tr>
 	<tr><td>9. 李祯  </td><td>基于WebGL的地形渲染</td><td>@qq.com</td><td></td></tr>
 	<tr><td>10.候治国</td><td></td><td>@qq.com</td><td></td></tr>
