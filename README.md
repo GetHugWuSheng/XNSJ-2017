@@ -18,11 +18,11 @@
 	<tr><td>11.黄鸿昌</td><td>校园交易平台(iOS App)</td><td>625845705@qq.com</td><td></td></tr>
 	<tr><td>12.孙海弦</td><td>提高农业本体可用性的方法研究</td><td>1806352026@qq.com</td><td></td></tr>
 	<tr><td>13.杜威  </td><td>西南大学校园网络建设</td><td>1278703103@qq.com</td><td></td></tr>
-	<tr><td>14.白迪  </td><td>压缩传感</td><td>1561667080@qq.com</td><td></td></tr>
+	<tr><td>14.白迪  </td><td>压缩传感</td><td>1561667080@qq.com</td><td>https://github.com/KeepYourFaith/Comrade</td></tr>
 	<tr><td>15.刘琪林</td><td>安卓手机网络漏洞分析</td><td>1449675740@qq.com</td><td></td></tr>
 	<tr><td>16.姜勇辉</td><td>制作一个简易的网站</td><td>2605700871@qq.com</td><td></td></tr>
 	<tr><td>17.张正  </td><td>社团管理系统</td><td>834995741@qq.com</td><td></td></tr>
-	<tr><td>18.胡金华</td><td>学生管理系统</td><td>2557568795@qq.com</td><td></td></tr>
+	<tr><td>18.胡金华</td><td>学生管理系统</td><td>2557568795@qq.com</td><td>https://git.oschina.net/hjhgithub2/studentSystem</td></tr>
 	<tr><td>19.黄宝  </td><td>基于WebGL的地形渲染</td><td>498696551@qq.com</td><td></td></tr>
 </table>	
  
